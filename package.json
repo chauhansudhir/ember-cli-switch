@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-switch",
-  "version": "0.2.0",
+  "version": "0.1.1",
   "description": "Ember cli a simple switch/toggle control. Control can handle 3 states and different skins",
   "keywords": [
     "ember-addon",
@@ -27,12 +27,12 @@
     "ember-cli-less": "^1.5.4"
   },
   "devDependencies": {
-    "ember-cli-htmlbars-inline-precompile": "^1.0.0",
     "broccoli-asset-rev": "^2.4.5",
     "ember-ajax": "^3.0.0",
     "ember-cli": "~2.15.1",
     "ember-cli-dependency-checker": "^2.0.0",
     "ember-cli-eslint": "^4.0.0",
+    "ember-cli-htmlbars-inline-precompile": "^1.0.0",
     "ember-cli-inject-live-reload": "^1.4.1",
     "ember-cli-qunit": "^4.0.0",
     "ember-cli-shims": "^1.1.0",
