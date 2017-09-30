@@ -1,24 +1,31 @@
 {
   "name": "ember-cli-switch",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "Ember cli a simple switch/toggle control. Control can handle 3 states and different skins",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "Switch control",
+    "Toggle switch",
+    "ember-cli-switch",
+    "ember checkbox"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "chauhan.sudhir79@yahoo.com",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/chauhansudhir/ember-cli-switch",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
     "test": "ember try:each"
   },
   "dependencies": {
-    "ember-cli-babel": "^6.3.0"
+    "ember-cli-babel": "^6.3.0",
+    "ember-cli-htmlbars": "^2.0.3",
+    "ember-cli-htmlbars-inline-precompile": "^1.0.0",
+    "ember-cli-less": "^1.5.4"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
@@ -26,8 +33,6 @@
     "ember-cli": "~2.15.1",
     "ember-cli-dependency-checker": "^2.0.0",
     "ember-cli-eslint": "^4.0.0",
-    "ember-cli-htmlbars": "^2.0.1",
-    "ember-cli-htmlbars-inline-precompile": "^1.0.0",
     "ember-cli-inject-live-reload": "^1.4.1",
     "ember-cli-qunit": "^4.0.0",
     "ember-cli-shims": "^1.1.0",
