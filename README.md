@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/chauhansudhir/ember-cli-switch.svg?branch=master)](https://travis-ci.org/chauhansudhir/ember-cli-switch)
 [![Code Climate](https://codeclimate.com/github/chauhansudhir/ember-cli-switch/badges/gpa.svg)](https://codeclimate.com/github/chauhansudhir/ember-cli-switch)
 
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
