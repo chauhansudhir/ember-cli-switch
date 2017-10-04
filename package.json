@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-switch",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Ember cli a simple switch/toggle control. Control can handle 3 states and different skins",
   "keywords": [
     "ember-addon",
